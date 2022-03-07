@@ -1,0 +1,5 @@
+BroomStick,FloorCleaner3000,125.0,255,1000
+MagicCarpet,JasminBurgendyRed,200.0,300,2000
+HotAirBallon,SkyLantern,25.0,100,10000
+CargoPlane,Antonov,139.0,950,55000000
+FighterJet,HawkerHurricane,2190.0,500.100000000
